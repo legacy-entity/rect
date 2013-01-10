@@ -1,0 +1,10 @@
+{
+  "name": "rect",
+  "description": "rectangle component",
+  "version": "0.0.1",
+  "keywords": ["game", "rectangle", "box", "component"],
+  "dependencies": {
+    "entity/vector": "*"
+  },
+  "scripts": ["index.js"]
+}
